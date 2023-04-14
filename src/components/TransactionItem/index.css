@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.transactionitem {
+  border: 2px dashed red;
+  display: flex;
+  justify-content: space-around;
+  width: 40vw;
+}
+.delete {
+  height: 30px;
+  width: 20px;
+}
+.deletebutton {
+  background-color: #ffffff;
+  border: none;
+}
